@@ -1,0 +1,34 @@
+{
+  "name": "react-native-native-video-player",
+  "version": "1.4.0",
+  "description": "React native video player component, used for Android, iOS.",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BondGoat/react-native-native-video-player.git"
+  },
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "photo",
+    "video",
+    "videos",
+    "image",
+    "images",
+    "player"
+  ],
+  "author": "Bond G. Nguyen",
+  "license": "WOG",
+  "bugs": {
+    "url": "https://github.com/BondGoat/react-native-native-video-player/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.44.0"
+  },
+  "homepage": "https://github.com/BondGoat/react-native-native-video-player/blob/master/README.md",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0"
+  }
+}
